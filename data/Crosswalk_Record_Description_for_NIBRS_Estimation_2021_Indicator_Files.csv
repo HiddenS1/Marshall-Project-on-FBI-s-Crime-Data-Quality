@@ -1,0 +1,110 @@
+"Crosswalk for the NIBRS Estimates, 2021, Indicator Files ",
+File name,Scope
+Indicator_Tables_1.csv,National - All Agencies
+Indicator_Tables_2.csv,"National - Cities 250,000 and over in Population"
+Indicator_Tables_3.csv,"National - Cities 100,000 thru 249,999 in Population"
+Indicator_Tables_4.csv,"National - Cities 50,000 thru 99,999 in Population"
+Indicator_Tables_5.csv,"National - Cities 25,000 thru 49,999 in Population"
+Indicator_Tables_6.csv,"National - Cities 10,000 thru 24,999 in Population"
+Indicator_Tables_7.csv,"National - Cities under 10,000 in Population"
+Indicator_Tables_8.csv,National - Counties in Metropolitan Statistical Areas
+Indicator_Tables_9.csv,National - Counties in Outside of Metropolitan Statistical Areas
+Indicator_Tables_10.csv,National - Agency Type - City
+Indicator_Tables_11.csv,National - Agency Type - County
+Indicator_Tables_12.csv,Northeast Region - All Agencies
+Indicator_Tables_13.csv,"Northeast Region - Cities 250,000 and over in Population"
+Indicator_Tables_14.csv,"Northeast Region - Cities 100,000 thru 249,999 in Population"
+Indicator_Tables_15.csv,"Northeast Region - Cities 50,000 thru 99,999 in Population"
+Indicator_Tables_16.csv,"Northeast Region - Cities 25,000 thru 49,999 in Population"
+Indicator_Tables_17.csv,"Northeast Region - Cities 10,000 thru 24,999 in Population"
+Indicator_Tables_18.csv,"Northeast Region - Cities under 10,000 in Population"
+Indicator_Tables_19.csv,Northeast Region - Counties in Metropolitan Statistical Areas
+Indicator_Tables_20.csv,Northeast Region - Counties in Outside of Metropolitan Statistical Areas
+Indicator_Tables_21.csv,Northeast Region - Agency Type - City
+Indicator_Tables_22.csv,Northeast Region - Agency Type - County
+Indicator_Tables_23.csv,Midwest Region - All Agencies
+Indicator_Tables_24.csv,"Midwest Region - Cities 250,000 and over in Population"
+Indicator_Tables_25.csv,"Midwest Region - Cities 100,000 thru 249,999 in Population"
+Indicator_Tables_26.csv,"Midwest Region - Cities 50,000 thru 99,999 in Population"
+Indicator_Tables_27.csv,"Midwest Region - Cities 25,000 thru 49,999 in Population"
+Indicator_Tables_28.csv,"Midwest Region - Cities 10,000 thru 24,999 in Population"
+Indicator_Tables_29.csv,"Midwest Region - Cities under 10,000 in Population"
+Indicator_Tables_30.csv,Midwest Region - Counties in Metropolitan Statistical Areas
+Indicator_Tables_31.csv,Midwest Region - Counties in Outside of Metropolitan Statistical Areas
+Indicator_Tables_32.csv,Midwest Region - Agency Type - City
+Indicator_Tables_33.csv,Midwest Region - Agency Type - County
+Indicator_Tables_34.csv,South Region - All Agencies
+Indicator_Tables_35.csv,"South Region - Cities 250,000 and over in Population"
+Indicator_Tables_36.csv,"South Region - Cities 100,000 thru 249,999 in Population"
+Indicator_Tables_37.csv,"South Region - Cities 50,000 thru 99,999 in Population"
+Indicator_Tables_38.csv,"South Region - Cities 25,000 thru 49,999 in Population"
+Indicator_Tables_39.csv,"South Region - Cities 10,000 thru 24,999 in Population"
+Indicator_Tables_40.csv,"South Region - Cities under 10,000 in Population"
+Indicator_Tables_41.csv,South Region - Counties in Metropolitan Statistical Areas
+Indicator_Tables_42.csv,South Region - Counties in Outside of Metropolitan Statistical Areas
+Indicator_Tables_43.csv,South Region - Agency Type - City
+Indicator_Tables_44.csv,South Region - Agency Type - County
+Indicator_Tables_45.csv,West Region - All Agencies
+Indicator_Tables_46.csv,"West Region - Cities 250,000 and over in Population"
+Indicator_Tables_47.csv,"West Region - Cities 100,000 thru 249,999 in Population"
+Indicator_Tables_48.csv,"West Region - Cities 50,000 thru 99,999 in Population"
+Indicator_Tables_49.csv,"West Region - Cities 25,000 thru 49,999 in Population"
+Indicator_Tables_50.csv,"West Region - Cities 10,000 thru 24,999 in Population"
+Indicator_Tables_51.csv,"West Region - Cities under 10,000 in Population"
+Indicator_Tables_52.csv,West Region - Counties in Metropolitan Statistical Areas
+Indicator_Tables_53.csv,West Region - Counties in Outside of Metropolitan Statistical Areas
+Indicator_Tables_54.csv,West Region - Agency Type - City
+Indicator_Tables_55.csv,West Region - Agency Type - County
+Indicator_Tables_56.csv,Alabama - All Agencies
+Indicator_Tables_57.csv,Alaska - All Agencies
+Indicator_Tables_58.csv,Arizona - All Agencies
+Indicator_Tables_59.csv,Arkansas - All Agencies
+Indicator_Tables_60.csv,California - All Agencies
+Indicator_Tables_61.csv,Colorado - All Agencies
+Indicator_Tables_62.csv,Connecticut - All Agencies
+Indicator_Tables_63.csv,Delaware - All Agencies
+Indicator_Tables_64.csv,District of Columbia - All Agencies
+Indicator_Tables_65.csv,Florida - All Agencies
+Indicator_Tables_66.csv,Georgia - All Agencies
+Indicator_Tables_67.csv,Hawaii - All Agencies
+Indicator_Tables_68.csv,Idaho - All Agencies
+Indicator_Tables_69.csv,Illinois - All Agencies
+Indicator_Tables_70.csv,Indiana - All Agencies
+Indicator_Tables_71.csv,Iowa - All Agencies
+Indicator_Tables_72.csv,Kansas - All Agencies
+Indicator_Tables_73.csv,Kentucky - All Agencies
+Indicator_Tables_74.csv,Louisiana - All Agencies
+Indicator_Tables_75.csv,Maine - All Agencies
+Indicator_Tables_76.csv,Maryland - All Agencies
+Indicator_Tables_77.csv,Massachusetts - All Agencies
+Indicator_Tables_78.csv,Michigan - All Agencies
+Indicator_Tables_79.csv,Minnesota - All Agencies
+Indicator_Tables_80.csv,Mississippi - All Agencies
+Indicator_Tables_81.csv,Missouri - All Agencies
+Indicator_Tables_82.csv,Montana - All Agencies
+Indicator_Tables_83.csv,Nebraska - All Agencies
+Indicator_Tables_84.csv,Nevada - All Agencies
+Indicator_Tables_85.csv,New Hampshire - All Agencies
+Indicator_Tables_86.csv,New Jersey - All Agencies
+Indicator_Tables_87.csv,New Mexico - All Agencies
+Indicator_Tables_88.csv,New York - All Agencies
+Indicator_Tables_89.csv,North Carolina - All Agencies
+Indicator_Tables_90.csv,North Dakota - All Agencies
+Indicator_Tables_91.csv,Ohio - All Agencies
+Indicator_Tables_92.csv,Oklahoma - All Agencies
+Indicator_Tables_93.csv,Oregon - All Agencies
+Indicator_Tables_94.csv,Pennsylvania - All Agencies
+Indicator_Tables_95.csv,Rhode Island - All Agencies
+Indicator_Tables_96.csv,South Carolina - All Agencies
+Indicator_Tables_97.csv,South Dakota - All Agencies
+Indicator_Tables_98.csv,Tennessee - All Agencies
+Indicator_Tables_99.csv,Texas - All Agencies
+Indicator_Tables_100.csv,Utah - All Agencies
+Indicator_Tables_101.csv,Vermont - All Agencies
+Indicator_Tables_102.csv,Virginia - All Agencies
+Indicator_Tables_103.csv,Washington - All Agencies
+Indicator_Tables_104.csv,West Virginia - All Agencies
+Indicator_Tables_105.csv,Wisconsin - All Agencies
+Indicator_Tables_106.csv,Wyoming - All Agencies
+Indicator_Tables_107.csv,National - Agency Type - University
+Indicator_Tables_108.csv,National - Agency Type - Tribal
