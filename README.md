@@ -10,7 +10,7 @@ We cooperated with Marshall Project to investigate the new system and its crime 
 
 ## **What we did as data reporters:**
 
-- [Interviewed](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Interviews) data analysts and police officers about FBI’s estimation methodology, data quality issues and its impact on society. 
+- [Interviewed](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Interviews) data analysts and police officers about FBI’s estimation methodology, data quality issues and its social impact. 
 - Assisted investigative journalists in analyzing the impact of FBI’s crime data migration to utilize Python to [wrangle FBI crime data](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Notebooks), [analyze for bias](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Notebooks), [create data visualization](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Visualizations), and write news articles. 
 - Outperformed FBI's crime data estimate by over 15% using [a fitted ARIMA model](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Independent%20Estimation) on NY historical crime data. 
 - Discussed future plans for in-depth analysis.
