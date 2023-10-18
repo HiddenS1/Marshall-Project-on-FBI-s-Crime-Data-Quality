@@ -17,4 +17,4 @@ We cooperated with Marshall Project to investigate the new system and its crime 
 - Outperformed FBI's crime data estimate by over 15% using [a fitted ARIMA model](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Independent%20Estimation) on NY historical crime data. 
 - Discussed future plans for in-depth analysis.
 
-View our [presentation slide](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/tree/main/Slides) as a guide:)
+View our [presentation slide](https://docs.google.com/presentation/d/1MkiH_egABHnbYD0UwM-GCd-gCa32cQLe/edit?usp=sharing&ouid=102320840805451107264&rtpof=true&sd=true) as a guide:)
