@@ -1,0 +1,15 @@
+Please read these notebooks in the order of:
+- marshall_project_pitch
+  - Introduced the context
+  - Wrangled datasets and visualized agencies reporting situation by county
+- County and Agency info
+  - Utilized NLP to extract useful information from multiple datasets containing typos
+  - Generated dataframes including historical data and current reporting situation by agency and county 
+- Comparison by Year
+  - Agency reporting situation in 2021 and 2022
+- NIBRS_estimation
+  - NIBRS estimation vs nys true data by crime type
+- Bias by state
+  - Visualized the estimated bias by states(provided by the NIBRS)
+- Map of agency
+  - Scraped geodata using Google Map API to create an interactive map with detailed information of each agency in NYS
