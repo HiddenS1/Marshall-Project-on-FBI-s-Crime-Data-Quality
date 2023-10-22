@@ -3,7 +3,7 @@ Please read these notebooks in the order of:
   - Introduced the context
   - Wrangled datasets and visualized agencies reporting situation by county
 - County and Agency info
-  - Utilized NLP(view details in [**Fuzz NLP**](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/blob/main/Wrangling/Fuzz%20NLP.ipynb) to extract useful information from multiple datasets containing typos
+  - Utilized NLP(view details in [**Fuzz NLP**](https://github.com/HiddenS1/Marshall-Project-on-FBI-s-Crime-Data-Quality/blob/main/Wrangling/Fuzz%20NLP.ipynb)) to extract useful information from multiple datasets containing typos
   - Generated dataframes including historical data and current reporting situation by agency and county 
 - Comparison by Year
   - Agency reporting situation in 2021 and 2022
